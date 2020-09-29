@@ -1,6 +1,6 @@
 # Travels-form-
-This simple GUI helps us to fill the travel form while keeping records in a word file.
-Here is the code I have used for this GUI
+#This simple GUI helps us to fill the travel form while keeping records in a word file.
+#Here is the code I have used for this GUI
 
 from tkinter import *
 root = Tk()
